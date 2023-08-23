@@ -1,6 +1,6 @@
 # Minecraft Start.sh
 
-Linux sunucularınızda kullanabileceğiniz Minecraft sunucunuzu başlatma komutudur.
+Linux sunucularınızda kullanabileceğiniz <strong>Minecraft</strong> sunucunuzu başlatma komutudur.
 
 # Başlatma Komutları;
 
@@ -8,14 +8,14 @@ Linux sunucularınızda kullanabileceğiniz Minecraft sunucunuzu başlatma komut
 sh start.sh
 
 # ./start.sh Başlatmıyor!
-Eğer ki ./start.sh sunucunuzu başlatmıyorsa aşağıdaki komutu kullanınız.
+Eğer ki <strong>./start.sh</strong> sunucunuzu başlatmıyorsa aşağıdaki komutu shell ekranına yapıştırın ve tekrar çalıştırmayı deneyin.
 
-chmod +x start.sh
+<strong>chmod +x start.sh</strong>
 
 # Sunucuya Ram Vermek İçin;
 
--Xms1G -Xmx2G  / Şeklinde iki tane ibare bulunmakta. <br>
--Xms1G    / İbaresi sunucunuza tanımlanan en düşük rami bildirir. <br>
--Xmx2G   / İbaresi sunucunuza tanımlanan en yüksek rami bildirir.<br>
-Eğer Megabyte şeklinde vermek isterseniz her iki ibarenin sonundaki G'yi kaldırarak 1024MB ve katları şeklinde düzenleyebilirsiniz.<br>
+<strong>-Xms1G -Xmx2G</strong>  / Şeklinde iki tane ibare bulunmakta. <br>
+<strong>-Xms1G</strong>    / İbaresi sunucunuza tanımlanan en düşük rami bildirir. <br>
+<strong>-Xmx2G</strong>   / İbaresi sunucunuza tanımlanan en yüksek rami bildirir.<br>
+Eğer Megabyte şeklinde vermek isterseniz her iki ibarenin sonundaki <strong>G</strong>'yi kaldırarak <strong>1024MB</strong> ve katları şeklinde düzenleyebilirsiniz.<br>
 
